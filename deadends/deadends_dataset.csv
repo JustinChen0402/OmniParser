@@ -1,0 +1,31 @@
+id,app,deadend_category,page,explanation,image_path
+1,Udemy,Incorrect label,"Main, Course block, Course Introduction video page","The fold button on video has a label of ""navigate up"".",images/1_Udemy.png
+2,Udemy,Incorrect label,"Main, Course block, Curriculum, Section",Folded section blocks are unlabelled,images/2_Udemy.png
+3,Udemy,Incorrect navigation,"Main, Browse, Account, Sign in, X","When trying to close the sign in pop up, the app closes.",images/3_Udemy.png
+4,TED,Incorrect navigation,"Main, Browse, Sorting button",TalkBack does not navigate to the sorting button.,images/4_Ted.png
+5,TED,Incorrect navigation,"Main, Podcast","When podcast window layer appears, it navigates to the elements behind the layer",images/5_Ted.png
+6,Duolingo,Incorrect label,"Main, Flag","When pressing Flag button, it reads misleading label",images/6_Duolingo.png
+7,Duolingo,Incorrect label,"Main, Heart","When pressing heart button, it reads gems instead.",images/7_Duolingo.png
+8,Duolingo,Incorrect label,"Main, Section, X",Unlabelled X button.,images/8_Duolingo.png
+9,Duolingo,Incorrect navigation,"Main, News tab","When navigating till the end, it does not go back to the first element, rather it only looks into the element inside current window",images/9_Duolingo.png
+10,Duolingo,Incorrect label,"Main, Account tab, Share, X",The X button is unlabelled.,images/10_Duolingo.png
+11,Duolingo,Incorrect navigation,"Main, Account tab, Statistics, Total XP","From Statistics block, only ""Day streak"" is accessible with TalkBack.",images/11_Duolingo.png
+12,Duolingo,Incorrect navigation,"Main, Locked Practice button","When clicking locked practice button, it shows a pop up which is inaccessible and has no clue on how to close.",images/12_Duolingo.png
+13,Duolingo,Incorrect navigation,"Main, Unlocked practice button","When clicking unlocked practice button, it shows a pop up which is inaccessible and has no clue on how to close.",images/13_Duolingo.png
+14,Pinterest,Incorrect label,"Main, Holiday finds","Wrong label on ""Holiday finds"" tab",images/14_Pinterest.png
+15,Pinterest,Incorrect navigation,"Main, Your privacy matters, X",TalkBack does not navigate to X button in privacy block,images/15_Pinterest.png
+16,Pinterest,Incorrect navigation,"Main, Any photo, Detail info, See more","TalkBack does not navigate to the ""See more"" button",images/16_Pinterest.png
+17,Pinterest,Incorrect navigation,"Main, Saved, Username profile",Follwers and following block is inaccessible,images/17_Pinterest.png
+18,United Airlines,Incorrect navigation,"Main, Wi-Fi & entertainment","TalkBack does not navigate to the sections between ""Before your flight"" and ""Frequently asked questions""",images/18_United.png
+19,United Airlines,Incorrect navigation,"Main, Join MileagePlus, Title, Dropdown",No information on how to close the dropdown,images/19_United.png
+20,United Airlines,Incorrect navigation,"Main, Join MileagePlus, Title",Cannot open Title dropdown without navigating to the next button,images/20_United.png
+21,Grants.gov,Incorrect navigation,"Main, Quick Search","When focused on ""Quick Search"" text, it says double tap to activate. However, nothing happens when tapped",images/21_Grants.gov.png
+22,Grants.gov,Incorrect navigation,"Main, Register at Grants.gov","The ""Grants.gov"" link is unclickable, making it impossible to register",images/22_Grants.gov.png
+23,Grants.gov,Incorrect navigation,"Main, Privacy","The ""Read more"" link is unclickable",images/23_Grants.gov.png
+24,Grants.gov,Incorrect navigation,"Main, Youtube icon, Back gesture","After being directed to Youtube link, when back gesture is done, it leads to Youtube main page, instead of the actual previous page",images/24_Grants.gov.png
+25,TEMU,Incorrect navigation,"Main, Continue with Google, Captcha",Unable to solve Captcha,images/25_Temu.png
+26,TEMU,Incorrect navigation,"Main, Price adjustment / Delivery guarantee block","When focused on this block, and the transition occurs, the focus moves to the search box",images/26_Temu.png
+27,TEMU,Incorrect navigation,"Main, Item, Qty, number","When number is clicked in Qty, it opens a pop up for selecting numbers. However TalkBack keeps its focus on the previous screen layer",images/27_Temu.png
+28,TEMU,Incorrect navigation,"Main, Item, Free shipping","When ""Free shipping"" is clicked, it opens a pop up with information. However TalkBack keeps its focus on the previous screen layer",images/28_Temu.png
+29,TEMU,Incorrect navigation,"Main, Category","When navigating next element from the < button, it navigates to items instead of the actual next element.",images/29_Temu.png
+30,TEMU,Incorrect navigation,"Main, You, Browsing history, Item block, Add to cart button","When clicking the larger add-to-cart button, it responds nothing",images/30_Temu.png
